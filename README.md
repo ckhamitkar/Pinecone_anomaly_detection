@@ -1,0 +1,1 @@
+Anomaly Detection in log files with embeddings stored in Pinecone. 
